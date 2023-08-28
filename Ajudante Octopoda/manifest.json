@@ -1,0 +1,16 @@
+{
+    "name": "Ajudante Octopoda",
+    "version": "1.0.0",
+    "description": "A simple extension to help you write the title of your event in calendar so it can be easily imported by the Octopoda",
+    "manifest_version": 3,
+    "author": "Denis Mendes",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Ajudante Octopoda",
+        "default_icon": {
+            "16": "icon.png",
+            "48": "icon.png",
+            "128": "icon.png"
+        }
+    }
+}
